@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Survey from "./components/surveyProp";
-import { Question } from "./interfaces";
+import { Question } from "./models/feedbackFormInterface";
 import RespondentDetails from "./components/respondentDetails";
 
 const questionsMain :Question[] = [

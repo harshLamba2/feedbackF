@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { SurveyProps } from "../interfaces";
+import { SurveyProps } from "../models/feedbackFormInterface";
 
 const stars: number[] = [1, 2, 3, 4, 5];
 
